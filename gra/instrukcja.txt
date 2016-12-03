@@ -1,0 +1,29 @@
+ARKANOID
+ 
+
+CEL:
+
+Klasyczna komputerowa gra zręcznościowa polegająca na odbijaniu piłeczki za pomocą małej ruchomej platformy. Celem gry jest niedopuszczenie do wypadnięcia piłeczki poza dolną krawędź okna oraz zbicie jak największej ilości kafelków rozmieszczonych wewnątrz okna.
+
+
+OPIS GRY:
+
+Gracz ma do wykorzystania 5 piłeczek, które traci kolejno w przypadku, gdy piłeczka ucieknie poza prostokąt. Za zbijanie kafelków przyznawane są punkty.
+
+Kontrolerem gry jest klawiatura. Aby rozpocząć grę należy wcisnąć klawisz spacji.
+
+Grę kontynuuje się przesuwając platformę w lewo i w prawo za pomocą klawiszy oznaczonych strzałkami.
+
+Gra kończy się w przypadku, gdy piłeczka wypadnie poza dolną krawędź okna lub gdy użytkownik zbije wszystkie kafelki na planszy.
+
+ 
+
+BONUSY:
+
+W grze pojawiają się bonusy ukryte pod zbijanymi kafelkami. Bonus jest aktywowany po złapaniu go przy pomocy platfomy.
+
+Bonusy występujące w grze:
+- niewidzialna platforma,
+- poszerzenie platfomy,
+- zwężenie platformy.
+
